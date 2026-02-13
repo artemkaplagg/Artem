@@ -1,0 +1,4 @@
+aiogram
+mistralai
+python-dotenv
+requests
